@@ -33,7 +33,7 @@ site.url = "http://alguem.tem.blog.br"
 # Caso alguma coisa seja colocada entre as aspas, então todo lugar onde
 # o site gera nome de autor vai ficar com este nome aqui.
 #
-site.author = ""
+site.author = "Alguém"
 
 #### Configurações do blog ####
 #
@@ -57,7 +57,7 @@ site.file_ignore_patterns = [
 ".*/CVS$",
 ]
 blog.auto_permalink.enabled = True
-blog.auto_permalink.path = ":blog_path/:year/:month/:day/:title"
+blog.auto_permalink.path = ":blog_path/:title"
 blog.custom_index = False
 blog.post_excerpts.enabled = False
 blog.post_default_filters = {
@@ -86,14 +86,14 @@ blog.template_path = "_templates/blog"
 blog.path = "/blog"
 
 ## blog.posts_per_page -- Número de posts por página
-blog.posts_per_page = 1
+blog.posts_per_page = 15
 
 
 ## blog_name -- Nome do blog.
 blog.name = "Alguém Tem Blog .BR"
 
 ## blog_description -- Descrição do blog. Aparece no feed RSS.
-blog.description = "Não tem blog? Aqui, \"alguém\" tem blog!"
+blog.description = "Não tem blog? Aqui, \"Alguém\" tem blog!"
 
 ## Disqus
 #
