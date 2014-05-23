@@ -83,7 +83,7 @@ blog.template_path = "_templates/blog"
 # Por exemplo, por padrão a primeira publicação ficaria em
 # http://alguem.tem.blog.br/blog/tenho_blog
 #
-blog.path = "/blog"
+blog.path = "/"
 
 ## blog.posts_per_page -- Número de posts por página
 blog.posts_per_page = 15

@@ -13,7 +13,7 @@ Eu administro outros sites também, mas eu uso outros nomes para isto.
 
 Tem gente que conhece o ser humano que está por trás deste nome. Guarde esta informação para ti mesmx. Eu luto para garantir o direito ao anonimato das pessoas, porque eu acredito que o ego não deveria ser sempre exaltado e enaltecido, e a mensagem deve sempre ser mais importante que o mensageiro.
 
-Para entrar em contato, utilize os meios disponíveis em [contato](./blog/contato).
+Para entrar em contato, utilize os meios disponíveis em [contato](./contato).
 
 </%self:filter>
 </article>
