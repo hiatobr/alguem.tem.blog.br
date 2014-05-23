@@ -59,7 +59,7 @@ site.file_ignore_patterns = [
 blog.auto_permalink.enabled = True
 blog.auto_permalink.path = ":blog_path/:title"
 blog.custom_index = False
-blog.post_excerpts.enabled = True
+blog.post_excerpts.enabled = False
 blog.post_default_filters = {
     "markdown": "syntax_highlight, markdown",
     "textile": "syntax_highlight, textile",
