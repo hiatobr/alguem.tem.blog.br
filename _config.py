@@ -57,7 +57,7 @@ site.file_ignore_patterns = [
 ".*/CVS$",
 ]
 blog.auto_permalink.enabled = True
-blog.auto_permalink.path = ":title"
+blog.auto_permalink.path = ":blog_path/:title"
 blog.custom_index = False
 blog.post_excerpts.enabled = False
 blog.post_default_filters = {
@@ -83,7 +83,7 @@ blog.template_path = "_templates/blog"
 # Por exemplo, por padrão a primeira publicação ficaria em
 # http://alguem.tem.blog.br/blog/tenho_blog
 #
-blog.path = "/"
+blog.path = "/blog"
 
 ## blog.posts_per_page -- Número de posts por página
 blog.posts_per_page = 15
