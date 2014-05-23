@@ -15,11 +15,11 @@ def nav_class(path):
       <li><a href="${bf.util.site_path_helper()}"
              class="${nav_class(bf.util.site_path_helper())}">In&iacute;cio</a></li>
       <li><a href="${bf.util.site_path_helper(bf.config.blog.path)}"
-             class="${nav_class(bf.util.site_path_helper(bf.config.blog.path))}">Not&iacute;cias</a></li>
+             class="${nav_class(bf.util.site_path_helper(bf.config.blog.path))}">Blog</a></li>
       <li><a href="${bf.util.site_path_helper(bf.config.blog.path,'archive')}"
              class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'archive'))}">Arquivo</a></li>
-	<li><a href="http://quem.tem.blog.br" target="_self">Quem tem blog&quest;</a></li>
-	<li><a href="http://ninguem.tem.blog.br" target="_self">Ninguém tem blog&excl;</a></li>
+	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'contato')}"
+		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'contato'))}">Contato</a></li>
     </ul>
   </div>
 </header>
