@@ -1,12 +1,14 @@
 ---
 categories: Contato
 date: 2014/04/04 20:32:00
+updated: 2014/05/23 22:10:00
 title: Contato
 ---
 Para entrar em contato comigo, existem as seguintes possibilidades:
 
-Tente primeiro na página "sobre" mim que eu disponibilizei em:
-<http://wwww.hi.ato.br/autor/>
+Envie e-mail para <mailto:alguem@riseup.net>
+
+Tente primeiro na página "sobre" mim que eu disponibilizei em: <http://wwww.hi.ato.br/autor/>
 
 Esta página deveria ter uma lista de perfis meus em redes sociais e meus
 endereços de e-mail, assim como meu nome na rede irc [freenode](http://freenode.net).
