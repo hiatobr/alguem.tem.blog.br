@@ -5,15 +5,13 @@
 Alguém Tem Blog .BR
 ====================
 
-Eu sou o administrador do site [hi.ato.br](http://hi.ato.br) e do site [tem.blog.br](http://tem.blog.br).
+Este é um blog de exemplo que busca apresentar o [Blogofile](http://www.blogofile.com) e demonstrar para qualquer pessoa como se utiliza este serviço.
 
-Eu escrevo tudo o que tem nestes sites, e também escrevo o código e configuro todos os serviços destes sites. Mas tem coisas que são outras pessoas anônimas que escrevem ou codificam, às vezes estas pessoas recebem créditos, às vezes não. Normalmente quem contribui comigo não faz questão de ser creditadx porque pensa que nem eu ou parecido.
+Acesse a lista de [tutoriais](./blog) ou começe pelo [início](./blog/inicio).
 
-Eu administro outros sites também, mas eu uso outros nomes para isto.
+Ou acesse [github](./blog/github) para um guia de como começar com um repositório público.
 
-Tem gente que conhece o ser humano que está por trás deste nome. Guarde esta informação para ti mesmx. Eu luto para garantir o direito ao anonimato das pessoas, porque eu acredito que o ego não deveria ser sempre exaltado e enaltecido, e a mensagem deve sempre ser mais importante que o mensageiro.
-
-Para entrar em contato, utilize os meios disponíveis em [contato](./contato).
+Para entrar em contato, utilize os meios disponíveis em [contato](./blog/contato).
 
 </%self:filter>
 </article>

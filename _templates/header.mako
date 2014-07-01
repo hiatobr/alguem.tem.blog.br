@@ -11,15 +11,21 @@ def nav_class(path):
        return "selected"
    return ""
 %>
-    <ul class="theme_font">
-      <li><a href="${bf.util.site_path_helper()}"
-             class="${nav_class(bf.util.site_path_helper())}">In&iacute;cio</a></li>
-      <li><a href="${bf.util.site_path_helper(bf.config.blog.path)}"
-             class="${nav_class(bf.util.site_path_helper(bf.config.blog.path))}">Blog</a></li>
-      <li><a href="${bf.util.site_path_helper(bf.config.blog.path,'archive')}"
-             class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'archive'))}">Arquivo</a></li>
+<ul class="theme_font">
+	<li><a href="${bf.util.site_path_helper()}"
+		class="${nav_class(bf.util.site_path_helper())}">In&iacute;cio</a></li>
 	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'contato')}"
 		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'contato'))}">Contato</a></li>
-    </ul>
-  </div>
+	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'archive')}"
+		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'archive'))}">Arquivo</a></li>
+	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'category','noticia')}"
+		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'category','noticia'))}">Notícias</a></li>
+	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'category','tutorial')}"
+		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'category','tutorial'))}">Tutoriais</a></li>
+	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'category','pessoal')}"
+		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'category','pessoal'))}">Sobre o autor</a></li>
+	<li>|</li>
+	<li><a href="http://quem.tem.blog.br" target="_blank">Quem tem blog&quest;</a></li>
+</ul>
+</div>
 </header>
