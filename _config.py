@@ -33,7 +33,7 @@ site.url = "http://alguem.tem.blog.br"
 # Caso alguma coisa seja colocada entre as aspas, então todo lugar onde
 # o site gera nome de autor vai ficar com este nome aqui.
 #
-site.author = "Alguém"
+site.author = "Algu&eacute;m"
 
 #### Configurações do blog ####
 #
@@ -90,10 +90,10 @@ blog.posts_per_page = 15
 
 
 ## blog_name -- Nome do blog.
-blog.name = "Alguém Tem Blog .BR"
+blog.name = "Algu&eacute;m Tem Blog .BR"
 
 ## blog_description -- Descrição do blog. Aparece no feed RSS.
-blog.description = "Não tem blog? Aqui, \"Alguém\" tem blog!"
+blog.description = "N&atlde;o tem blog&quest; Aqui, &quot;Algu&eacute;m&quot; tem blog&excl;"
 
 ## Disqus
 #
