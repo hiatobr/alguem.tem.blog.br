@@ -19,7 +19,7 @@ def nav_class(path):
 	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'archive')}"
 		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'archive'))}">Arquivo</a></li>
 	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'category','noticia')}"
-		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'category','noticia'))}">Not&iacute;cias</a></li>
+		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'category','noticia'))}">Noticias</a></li>
 	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'category','tutorial')}"
 		class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'category','tutorial'))}">Tutoriais</a></li>
 	<li><a href="${bf.util.site_path_helper(bf.config.blog.path,'category','pessoal')}"
