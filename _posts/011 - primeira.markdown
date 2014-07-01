@@ -1,7 +1,7 @@
 ---
-categories: Notícia
+categories: noticia
 date: 2014/03/04 01:30:00
-updated: 2014/07/01 13:18:00
+updated: 2014/07/01 20:21:00
 title: Primeira
 ---
 Domínio tem.blog.br registrado em [Registro.BR](http://registro.br).

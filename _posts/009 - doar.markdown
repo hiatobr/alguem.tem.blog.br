@@ -1,6 +1,7 @@
 ---
-categories: Tutorial
+categories: tutorial
 date: 2014/03/04 02:30:05
+updated: 2014/07/01 20:21:00
 title: Doar
 ---
 ![Pegadinha][1]

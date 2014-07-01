@@ -1,7 +1,7 @@
 ---
-categories: Rascunho
+categories: rascunho
 date: 2014/04/01 03:33:00
-updated: 2014/07/01 13:07:00
+updated: 2014/07/01 20:18:00
 title: Tenho Blog!
 ---
 Acabei de fazer meu blog em http://tem.blog.br!

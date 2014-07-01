@@ -1,7 +1,7 @@
 ---
-categories: projetos, sites
+categories: noticias, projetos, sites
 date: 2014/04/07 21:00:00
-updated: 2014/05/22 23:36:00
+updated: 2014/07/01 20:19:00
 title: Mídia Capoeira
 ---
 Iniciei há algum tempo um projeto chamado "Mídia Capoeira".

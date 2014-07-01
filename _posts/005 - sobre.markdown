@@ -1,7 +1,7 @@
 ---
-categories: Tutorial
+categories: tutorial
 date: 2014/03/04 02:30:01
-updated: 2014/07/01 13:11:00
+updated: 2014/07/01 20:20:00
 title: Sobre
 ---
 Este site é um serviço de hospedagem de blogs que utiliza o software [Blogofile](http://www.blogofile.com).

@@ -1,7 +1,7 @@
 ---
-categories: Tutorial
+categories: tutorial
 date: 2014/04/04 22:03:00
-updated: 2014/07/01 13:16:00
+updated: 2014/07/01 20:21:00
 title: github
 ---
 Instruções para usar este serviço com [GitHub](https://github.com):
