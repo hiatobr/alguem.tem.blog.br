@@ -1,7 +1,7 @@
 ---
-categories: Contato
+categories: contato, pessoal
 date: 2014/04/04 20:32:00
-updated: 2014/05/23 22:10:00
+updated: 2014/07/01 13:07:00
 title: Contato
 ---
 Para entrar em contato comigo, existem as seguintes possibilidades:
