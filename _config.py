@@ -90,7 +90,7 @@ blog.posts_per_page = 15
 
 
 ## blog_name -- Nome do blog.
-blog.name = "Alguém Tem Blog .BR"
+blog.name = "Alguem Tem Blog .BR"
 
 ## blog_description -- Descrição do blog. Aparece no feed RSS.
 blog.description = "Não tem blog? Aqui, \"Alguém\" tem blog!"
