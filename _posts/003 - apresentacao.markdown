@@ -1,7 +1,7 @@
 ---
 categories: pessoal
 date: 2014/07/01 13:06:00
-title: Apresentação
+title: Apresenta&ccedil;&atilde;o
 ---
 Eu sou o administrador do site [hi.ato.br](http://hi.ato.br) e do site [tem.blog.br](http://tem.blog.br).
 
