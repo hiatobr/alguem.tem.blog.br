@@ -1,17 +1,14 @@
 ---
 categories: contato, pessoal
 date: 2014/04/04 20:32:00
-updated: 2014/07/01 21:30:00
+updated: 2014/07/01 21:57:00
 title: Contato
 ---
 Para entrar em contato comigo, existem as seguintes possibilidades:
 
-Envie e-mail para <mailto:alguem@riseup.net>
+Envie e-mail para alguem@riseup.net
 
-Tente primeiro na p&aacute;gina &quot;sobre&quot; mim que eu disponibilizei em: <http://wwww.hi.ato.br/autor/>
-
-Esta p&aacute;gina deveria ter uma lista de perfis meus em redes sociais e meus
-endere&ccedil;os de e-mail, assim como meu nome na rede irc [freenode](http://freenode.net).
+Tente a p&aacute;gina de contatos dispon&iacute;vel em: <http://wwww.hi.ato.br/autor/>
 
 Caso isto n&atilde;o funcione, tente enviar e-mail para as listas do [Google Groups](https://groups.google.com)
 do [Matehackers](http://matehackers.org) ou do [PyTch&ecirc;](http://pytche.org).
