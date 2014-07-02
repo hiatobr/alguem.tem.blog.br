@@ -1,5 +1,5 @@
 ---
-categories: pessoal
+categories: pessoal, contato
 date: 2014/04/04 20:32:00
 updated: 2014/07/01 21:57:00
 title: Contato
@@ -11,11 +11,11 @@ Envie e-mail para alguem&#64;riseup.net
 Tente a p&aacute;gina de contatos dispon&iacute;vel em: <http://wwww.hi.ato.br/autor/>
 
 Caso isto n&atilde;o funcione, tente enviar e-mail para as listas do [Google Groups](https://groups.google.com)
-do [Matehackers](http://matehackers.org) ou do [PyTch&ecirc;](http://pytche.org).
+do [Matehackers](http://matehackers.org) ou do [PyTche](http://pytche.org).
 
 Existe a possibilidade da tua mensagem chegar at&eacute; mim por este m&eacute;todo.
 
-Caso isto n&atilde;o funcione, tente descobrir meu &quot;nome real&quot;, aonde eu trabalho,
+Caso isto n&atilde;o funcione, tente descobrir meu 'nome real', aonde eu trabalho,
 aonde eu moro, por onde eu ando, os n&uacute;meros de telefone que est&atilde;o
 registrados no meu nome, e tente me achar em Porto Alegre.
 
