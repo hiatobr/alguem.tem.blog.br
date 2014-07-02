@@ -1,29 +1,29 @@
 ---
 categories: tutorial
 date: 2014/03/04 02:30:01
-updated: 2014/07/01 20:20:00
+updated: 2014/07/01 21:30:00
 title: Sobre
 ---
-Este site é um serviço de hospedagem de blogs que utiliza o software [Blogofile](http://www.blogofile.com).
+Este site &eacute; um servi&ccedil;o de hospedagem de blogs que utiliza o software [Blogofile](http://www.blogofile.com).
 
-O domínio tem.blog.br está registrado no Brasil em [Registro.BR](http://registro.br).
+O dom&iacute;nio tem.blog.br est&aacute; registrado no Brasil em [Registro.BR](http://registro.br).
 
-O site está hospedado no serviço de hospedagem de [hi.ato.br](http://hi.ato.br), cujo servidor físico está em Luxemburgo.
+O site est&aacute; hospedado no servi&ccedil;o de hospedagem de [hi.ato.br](http://hi.ato.br), cujo servidor f&iacute;sico est&aacute; em Luxemburgo.
 
-A entidade emissora de certificados SSL para este site é a [CaCert](https://cacert.org).
+A entidade emissora de certificados SSL para este site &eacute; a [CaCert](https://cacert.org).
 
-Para servir estas páginas, é utilizado um servidor web [Apache](https://httpd.apache.org/) que envia os arquivos estáticos do [Blogofile](http://www.blogofile.com).
+Para servir estas p&aacute;ginas, &eacute; utilizado um servidor web [Apache](https://httpd.apache.org/) que envia os arquivos est&aacute;ticos do [Blogofile](http://www.blogofile.com).
 
-O servidor físico usa um sistema operacional [Debian](http://www.debian.org).
+O servidor f&iacute;sico usa um sistema operacional [Debian](http://www.debian.org).
 
-Tudo isto é software livre, em um servidor independente que funciona de forma autônoma.
+Tudo isto &eacute; software livre, em um servidor independente que funciona de forma aut&ocirc;noma.
 
-É correto afirmar que este é um serviço 100% livre, independente e autônomo.
+&eacute; correto afirmar que este &eacute; um servi&ccedil;o 100% livre, independente e aut&ocirc;nomo.
 
-Não há nenhum fim ou meio comercial ou de espionagem aqui, e este não é um simples serviço alternativo, libertário, sustentável, código aberto, etc.
+N&atilde;o h&aacute; nenhum fim ou meio comercial ou de espionagem aqui, e este n&atilde;o &eacute; um simples servi&ccedil;o alternativo, libert&aacute;rio, sustent&aacute;vel, c&oacute;digo aberto, etc.
 
-Todas as premissas para um serviço 100% livre estão satisfeitas.
+Todas as premissas para um servi&ccedil;o 100% livre est&atilde;o satisfeitas.
 
-A não ser talvez a incapacidade do administrador do sistema ir direto ao ponto ao invés de desperdiçar esta publicação inteira fazendo propaganda do serviço, e ter que criar uma publicação específica só para falar sobre o serviço.
+A n&atilde;o ser talvez a incapacidade do administrador do sistema ir direto ao ponto ao inv&eacute;s de desperdi&ccedil;ar esta publica&ccedil;&atilde;o inteira fazendo propaganda do servi&ccedil;o, e ter que criar uma publica&ccedil;&atilde;o espec&iacute;fica s&oacute; para falar sobre o servi&ccedil;o.
 
-Para contribuir com o administrador e garantir que este serviço continue livre e independente, acesse [doar](../doar).
+Para contribuir com o administrador e garantir que este servi&ccedil;o continue livre e independente, acesse [doar](../doar).
