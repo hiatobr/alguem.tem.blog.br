@@ -2,7 +2,7 @@
 categories: tutorial
 date: 2014/03/04 02:30:00
 updated: 2014/07/01 21:30:00
-title: In&iacute;cio
+title: Inicio
 ---
 Seja bem vindx ao [tem.blog.br](http://tem.blog.br).
 

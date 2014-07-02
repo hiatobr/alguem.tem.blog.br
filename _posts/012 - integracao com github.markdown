@@ -2,7 +2,7 @@
 categories: noticia
 date: 2014/04/04 23:37:00
 updated: 2014/07/01 21:30:00
-title: Integra&ccedil;&atilde;o com GitHub
+title: Integracao com GitHub
 ---
 Terminei de configurar o servidor, fiz alguns tutoriais em
 <http://alguem.tem.blog.br>, e fiz scripts autom&aacute;ticos que eu vou documentar

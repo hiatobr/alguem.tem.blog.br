@@ -2,7 +2,7 @@
 categories: noticia, projetos, sites
 date: 2014/04/07 21:00:00
 updated: 2014/07/01 21:30:00
-title: M&iacute;dia Capoeira
+title: Midia Capoeira
 ---
 Iniciei h&aacute; algum tempo um projeto chamado &quot;M&iacute;dia Capoeira&quot;.
 
