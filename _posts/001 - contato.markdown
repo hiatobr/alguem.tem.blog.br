@@ -1,12 +1,12 @@
 ---
-categories: contato, pessoal
+categories: pessoal
 date: 2014/04/04 20:32:00
 updated: 2014/07/01 21:57:00
 title: Contato
 ---
 Para entrar em contato comigo, existem as seguintes possibilidades:
 
-Envie e-mail para alguem@riseup.net
+Envie e-mail para alguem&#64;riseup.net
 
 Tente a p&aacute;gina de contatos dispon&iacute;vel em: <http://wwww.hi.ato.br/autor/>
 
